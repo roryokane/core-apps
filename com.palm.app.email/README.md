@@ -4,10 +4,8 @@ Email application for webOS. Written using enyo 1.0.
 
 # Limitations and Known Issues
 
-## User Credentials will be stored in clear format in the db8. Secure storing support will be added later.
-
-## HTML Sanitizer function used in the Email display message view, is limited to remove only certain tags such as Script, iframe, object, embed. More generic solution is planned for post beta release.
-
+* User Credentials will be stored in clear format in the db8. Secure storing support will be added later.
+* HTML Sanitizer function used in the Email display message view, is limited to remove only certain tags such as Script, iframe, object, embed. More generic solution is planned for post beta release.
 
 # App launch lifecycle
 
